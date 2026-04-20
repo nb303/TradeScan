@@ -45,7 +45,7 @@ Safe modifiers (faux, ceramic, synthetic, cruelty-free) heavily discount false p
 
 - [CITES Species+ database](https://speciesplus.net/) — official species listings
 - [CITES Trade Database](https://trade.cites.org/) — historical trade data
-- [WWF Wildlife Crime](https://www.worldwildlife.org/initiatives/stopping-wildlife-crime) — threat context
+- [WWF Wildlife Crime](https://www.worldwildlife.org/our-work/wildlife/wildlife-crime/stop-illegal-wildlife-trade-online/coalition-to-end-wildlife-trafficking-online/) — threat context
 
 ---
 
