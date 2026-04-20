@@ -1,6 +1,6 @@
 # TradeScan
 
-**Endangered species listing detection API for e-commerce compliance**
+**Illegal wildlife trade detection API for e-commerce compliance**
 
 API for detecting illegal wildlife trade in e-commerce listings
 
@@ -14,7 +14,7 @@ TradeScan flags risky listings using a hybrid NLP pipeline combining rule-based 
 
 Keywords mapped to CITES Appendix I/II species
 Returns species + legal status
-High precision for known terms (e.g., “ivory”, “rhino horn”)
+High precision for known terms (“ivory”, “rhino horn”)
 
 2. ML classifier (TF-IDF + Logistic Regression)
 
@@ -26,7 +26,7 @@ Captures evasive phrases (“exotic horn”, “wild harvested”)
 Rules dominate when triggered
 ML handles ambiguous cases
 
-Safe modifiers (faux, ceramic, synthetic, cruelty-free...) heavily discount false positives.
+Safe modifiers (faux, ceramic, synthetic, cruelty-free) heavily discount false positives.
 
 ---
 
