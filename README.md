@@ -2,7 +2,7 @@
 
 **Wildlife trade compliance API for e-commerce listings**
 
-TradeScan is an NLP-powered REST API that detects potential illegal wildlife trafficking in product listings at submission time. Once a listing title and description is submitted — TradeScan returns a risk score, matched CITES species, and a publish recommendation before the listing goes live.
+TradeScan is an NLP-powered REST API that detects potential illegal wildlife trafficking in product listings at submission time. Once a listing title and description is submitted, TradeScan returns a risk score, matched CITES species, and a publish recommendation before the listing goes live.
 
 ------
 <img width="1440" height="763" alt="Screenshot 2026-04-19 at 11 49 15 PM" src="https://github.com/user-attachments/assets/aea08c84-8590-486e-adc1-4e87602f5871" />
