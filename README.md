@@ -1,10 +1,10 @@
-# TradeScan🦅
+# TradeScan
 
 **Endangered species listing detection API for e-commerce compliance**
 
-TradeScan is an NLP-powered compliance tool that detects potential illegal wildlife trafficking in product listings. It uses a hybrid detection approach — CITES species keyword matching combined with a machine learning classifier — to flag suspicious listings before they go live.
+API for detecting illegal wildlife trade in e-commerce listings
 
-Built as a reference implementation for e-commerce platform trust & safety teams.
+TradeScan flags risky listings using a hybrid NLP pipeline combining rule-based CITES matching with a machine learning classifier.
 
 ---
 
