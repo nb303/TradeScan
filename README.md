@@ -1,6 +1,6 @@
 # TradeScan 🦚🦜🐒🦉
 
-**Illegal wildlife products trade detection API for e-commerce compliance**
+**Wildlife trade compliance API for e-commerce listings**
 
 TradeScan flags risky listings using a hybrid NLP pipeline combining rule-based CITES matching with a machine learning classifier.
 
