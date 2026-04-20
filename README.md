@@ -7,6 +7,7 @@ API for detecting illegal wildlife trade in e-commerce listings
 TradeScan flags risky listings using a hybrid NLP pipeline combining rule-based CITES matching with a machine learning classifier.
 
 ---
+<img width="1440" height="763" alt="Screenshot 2026-04-19 at 11 49 15 PM" src="https://github.com/user-attachments/assets/aea08c84-8590-486e-adc1-4e87602f5871" />
 
 ## How it works
 
