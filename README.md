@@ -26,9 +26,10 @@ Captures evasive phrases (“exotic horn”, “wild harvested”)
 
 Rules dominate when triggered
 ML handles ambiguous cases
-
 Safe modifiers (faux, ceramic, synthetic, cruelty-free) heavily discount false positives.
 
+
+<img width="1252" height="402" alt="Screenshot 2026-04-19 at 11 54 06 PM" src="https://github.com/user-attachments/assets/a6251b01-032e-4ccd-b61a-2db9903d7f4f" />
 ---
 
 ## Risk levels
