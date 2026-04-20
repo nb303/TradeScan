@@ -16,7 +16,7 @@ TradeScan flags risky listings using a hybrid NLP pipeline combining rule-based 
 Keywords mapped to CITES Appendix I/II species
 Returns species + legal status
 High precision for known terms (“ivory”, “rhino horn”)
-
+<img width="1396" height="543" alt="Screenshot 2026-04-19 at 11 53 52 PM" src="https://github.com/user-attachments/assets/8a8b204e-7fa6-4eb9-b8e4-866923188e0b" />
 2. ML classifier (TF-IDF + Logistic Regression)
 
 Trained on synthetic listings
